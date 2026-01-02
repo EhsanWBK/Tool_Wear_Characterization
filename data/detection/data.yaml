@@ -1,0 +1,6 @@
+train: "C:/Users/flohg/Desktop/FWT_3610/12_JupyterScripts/Final/yoloData/images/train"
+val: "C:/Users/flohg/Desktop/FWT_3610/12_JupyterScripts/Final/yoloData/images/val"
+test: "C:/Users/flohg/Desktop/FWT_3610/12_JupyterScripts/Final/yoloData/images/test"
+
+nc: 6  # Number of classes
+names: ["camera", "gripper", "gripper_with_tool", "magazine", "robot", "tool"]
